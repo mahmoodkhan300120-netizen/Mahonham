@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahmoodkhan300120-netizen.github.io/Mahonham/sitemap.xml
